@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Receptkonyv_v2</string>
+    <string name="title_activity_recept">ReceptActivity</string>
+    <string name="favourite">Kedvenc</string>
+    <string name="new_recept_item">Új recept</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Mágse</string>
+    <string name="name">Név</string>
+    <string name="description">Leírás</string>
+    <string name="category">Kategória</string>
+    <string name="recfavourite">Kedvenc</string>
+    <string-array name="category_items">
+        <item>Előétel</item>
+        <item>Főétel</item>
+        <item>Desszert</item>
+    </string-array>
+</resources>
